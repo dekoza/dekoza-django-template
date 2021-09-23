@@ -8,7 +8,7 @@ style = "https://raw.githubusercontent.com/wemake-services/wemake-python-stylegu
 
 
 [tool.poetry]
-name = "wemake-django-template"
+name = "dekoza-django-template"
 description = "Bleeding edge django template focused on code quality and security"
 version = "0.1.0"
 readme = "README.md"
