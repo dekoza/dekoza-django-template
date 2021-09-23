@@ -13,6 +13,7 @@ description = "Bleeding edge django template focused on code quality and securit
 version = "0.1.0"
 readme = "README.md"
 authors = [
+  "Dominik Kozaczko <dominik@kozaczko.info>",
   "Nikita Sobolev <mail@sobolevn.me>"
 ]
 
